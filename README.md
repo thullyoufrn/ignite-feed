@@ -6,7 +6,7 @@ This project was built during my React studies in the Rocketseat's Ignite bootca
 
 ### Screenshot
 
-![Screenshot](./src/assets/Screenshot%20Ignite%20Feed.png)
+![Screenshot](./src/assets/Screenshot%20-%20Ignite%20Feed.png)
 
 ### Built with
 
